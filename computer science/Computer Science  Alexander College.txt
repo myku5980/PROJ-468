@@ -1,0 +1,121 @@
+URL: https://alexandercollege.ca/programs-and-courses/subject-areas/computer-science/
+QuicklinksPrograms and Courses
+Home / Programs and Courses / Subject Areas / Computer Science Learning MethodsAll components of every Computer Science design have some active learning strategies incorporated into them such as think-pair share, debate, programming or research projects, and multimedia presentations. Major FocusA major focus of the courses is on the development of skills in computational thinking and programming through practice, critical thinking, and innovation.  The AC DifferenceProvide high quality education in the areas of Computer Science to a diverse student population in a supportive environment.  We offer courses that provide our students with the skills necessary for transfer, career success, and lifelong learning. A primary goal for every Computer Science class is to actively engage students with the material through practice, practice and practice. Career OutlookAlexander College introduces Computer Science courses for students who are looking to enhance their skills with technology, from the basics of computers, to the skills and knowledge required to become a Software developer.Select a course below to see full descriptions. (#) Indicates amount of credits per course.An introduction to elementary concepts in Computer Science. Topics include: history, hardware, software, user applications, networks, and programming.
+Prerequisite(s):
+ENGL 097
+
+Transfers to:
+
+                        SFU CMPT 1XX (4)
+                        UVIC CSC 100 (1.5)
+                        UNBC CPSC 1XX (3)
+                        TRU COMP 1000 (3)
+                     
+Basic programming constructs, data types, classes, interfaces, protocols, and the design of programs as interacting software components.
+Prerequisite(s):
+ENGL 097, MATH 12 (C) or MATH 099 (C) or MATH 100
+
+Transfers to:
+
+                        UBC CPSC 1st (4)
+                        SFU CMPT 120 (3)
+                        UVIC CSC 110 (1.5)
+                        UNBC CPSC 110 (3)
+                        TRU COMP 1130 (3)
+                     
+Continues the introduction of programming begun in CPSC 111, with a particular focus on the ideas of data abstraction and object-oriented programming. Topics include object-oriented programming, fundamental data structures, recursion, programming paradigms, principles of language design, virtual machines, and an introduction to language translation.
+Prerequisite(s):
+ENGL 098, CPSC 111
+
+Transfers to:
+
+                        UBC CPSC 1st (4), Exempt UBC CPSC 260
+                        SFU CMPT 125 (3), & SFU CMPT 127 (0) Exemption & SFU CMPT 128 (0) Exemption
+                        UVIC CSC 115 (1.5)
+                        UNBC CPSC 101 (4)
+                        TRU COMP 1230 (3)
+                     
+Offers an intensive introduction to discrete mathematics as it is used in computer science. Topics include functions, relations, sets, propositional and predicate logic, simple circuit logic, proof techniques, elementary combinatorics, and discrete probability.
+Prerequisite(s):
+ENGL 097, MATH 12 (C) or MATH 100 (C)
+
+Preclusion:
+Students with credit for MATH 115 may not take CPSC 115 for further credit.
+
+Transfers to:
+
+                        UBC CPSC 1st (3), Exempt UBC CPSC 121
+                        SFU MACM 101 (3)
+                        UVIC MATH 122 (1.5)
+                        UNBC CPSC 141 (3)
+                        TRU COMP 1380 (3)
+                     
+This course introduces the internal operation of computer systems. Topics include: Boolean algebra and combinational and sequential logic design, basic computer system organization, processor, memory, and input/output, information representation: number systems, integer floating point representation and character encoding, and an introduction to assembly language programming.
+Prerequisite(s):
+ENGL 098, CPSC 111 (CPSC 115/MATH 115 is strongly recommended)
+
+Transfers to:
+
+                        SFU CMPT 1XX (3)
+                        UVIC CSC 1XX (1.5)
+                        UNBC CPSC 230 (3)
+                     
+This course introduces students to basic planning and designing of effective web pages; implementing web pages using HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets); enhancing web pages with the use of page layout techniques, text formatting, graphics, images, and multimedia; and producing a functional, multi-page website. It does not require nor expect any prior knowledge of HTML or Web design.
+Prerequisite(s):
+ENGL 097, 3 credits first-year CPSC
+
+Transfers to:
+
+                       SFU  CMPT 165 (3)
+                       UVIC CSC 1XX (1.5)
+                       UNBC CPSC 1XX (3)
+                     
+This course is a continuation of CPSC 115 – Discrete Structures. It covers widely applicable mathematical tools for computer science. Topics include: inclusion-exclusion, generating functions, recurrence relations, graphs and trees, cycles and paths, shortest-path algorithms, minimal spanning trees, tree transversal and applications of trees and graphs.
+Prerequisite(s):
+ENGL 098, CPSC 115 or MATH 115
+
+Transfers to:
+
+                       SFU MACM 201 (3), Q
+                       UVIC MATH 222 (1.5)
+                       UNBC CPSC 242 (3)
+                     
+This course is intended for students who plan to major in Computer Science, Computer Information Systems, Engineering, or any Management and Systems Science (MSSC) majors. It introduces computer program design and development with a primary focus on analysis and design of a variety of fundamental data structures and abstraction using a popular object oriented programming language. Particular emphasis is given to fundamental computing algorithms for searching, sorting, hashing, and string processing; elementary abstract data types including lists, stacks, queues, heaps, sets, and trees; and time and space efficiency analysis.
+Prerequisite(s):
+ENGL 098, CPSC 112, CPSC 115 or MATH 115
+
+Transfers to:
+
+                       UBC CPSC 2nd (4), Exempt UBC CPSC 221
+                       SFU CMPT 225 (3)
+                       UNBC CPSC 281 (3)
+                       TRU COMP 2230 (3)
+                     
+This course introduces the fundamental computer organization and instruction set architecture concepts. Particular emphasis is given to the organization and design of the major components of modern digital computers. Topics include: processor organization, control logic design, pipelining, memory hierarchy, input/output control and devices, instruction set design, and architectural support for operating systems and programming languages. A hardware description language will be used as a tool to express and work with design concepts.
+Prerequisite(s):
+ENGL 098, CPSC 150
+
+Transfers to:
+
+                       SFU CMPT 2XX (3)
+                       UVIC CSC 230 (1.5)
+                       UNBC CPSC 231 (3)
+                     
+InstructorDr. Ahmed Malki, Adjunct Professor, holds a Ph.D. in Computer Science from New Mexico State University in the U.S.
+                             He has taught courses at undergraduate and graduate levels such as Programming Fundamentals using C++, Java and Python, Data structures using C++ and Java, Operating systems, Computer Architecture, Concurrency and distributed systems, Computer Algorithms, Discrete Mathematics, Management Information Systems and E-Commerce Web Design and Systems Analysis and Design.
+                              He joined the Science Department at Alexander College in September 2010.
+ He has taught courses at undergraduate and graduate levels such as Programming Fundamentals using C++, Java and Python, Data structures using C++ and Java, Operating systems, Computer Architecture, Concurrency and distributed systems, Computer Algorithms, Discrete Mathematics, Management Information Systems and E-Commerce Web Design and Systems Analysis and Design.
+                              He joined the Science Department at Alexander College in September 2010.
+He joined the Science Department at Alexander College in September 2010.InstructorI am an instructor in Computing Science with a MSc from Simon Fraser University.
+                            
+                              I have taught programming courses at various levels to undergraduate students as well as gaming professionals.
+                              I have been at Alexander College since 2017.
+
+                              I have taught programming courses at various levels to undergraduate students as well as gaming professionals.
+                              I have been at Alexander College since 2017.
+I have been at Alexander College since 2017.InstructorMy name is Radwa Hammad. I hold a M. Sc. in Computer Science from University of Northern British Columbia in Canada.
+                            I have taught courses at undergraduate, such a Systems Analysis and Design, Programming Fundamentals using C++, Java, C#, and Python, linear algebra, differential equations.
+                          My research interests are image compression, image retrieval and indexing, digital image forgery detection, and data mining.
+I have taught courses at undergraduate, such a Systems Analysis and Design, Programming Fundamentals using C++, Java, C#, and Python, linear algebra, differential equations.
+                          My research interests are image compression, image retrieval and indexing, digital image forgery detection, and data mining.
+My research interests are image compression, image retrieval and indexing, digital image forgery detection, and data mining.Lessons Designed to Develop Understanding of the Nature of Science and ModelingThe Understandings of Consequence Project: Project Zero, Harvard Graduate School of EducationComputational thinking (CT) is a problem solving process that includes a number of characteristics, such as logically ordering and analyzing data and creating solutions using a series of ordered steps (or algorithms), and dispositions, such as the ability to confidently deal with complexity and open-ended problems.Exploring Computational Thinking (ECT) Free online books for all subjectswww.open.umn.eduby Hal Abelson, Ken Ledeen, and Harry Lewiswww.bitsbook.comDifferent representation of numbers such as decimal, binary, octal, and hexadecimalNumber SystemsTomorrow’s Technology and You, 10/editionwps.prenhall.comUsing Information Technology - A Practical Introduction to Computers and Communications, 5/e highered.mheducation.comPlease note that the activities at the site are designed for all ages, but the content is solid computer science content that relates to what you will be learning.www.code.orgEverything you want to know about Pythonwww.w3resource.comPython open bookwww.openbookproject.netA useful site full of Python practice problems www.codingbat.comThis library reference manual describes the standard library that is distributed with Pythondocs.python.orghelps students overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of code (Visualizing code)www.pythontutor.comYou’ll learn how to use a ‘turtle’ to draw different shapes and patternsA popular way for introducing programming to kidsdocs.python.orgwww.eg.bucknell.eduYou’ll learn how to use a ‘turtle’ to draw awesome shapes and patterns.projects.codeclubworld.orgPythonTurtle strives to provide the lowest-threshold way to learn (or teach) software development in the Python programming language.www.pythonturtle.org/ docs.oracle.comJava® Platform, Standard Edition & Java Development Kit Version 10 API Specificationdocs.oracle.comA useful site full of Java practice problems www.codingbat.comhelps students overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of code (Visualizing code)www.pythontutor.coma textbook for a first course in computer science for the next generation of scientists and engineersintrocs.cs.princeton.eduLearn through YouTube videos folk danceSelect-sort with Gypsy folk dance Quick-sort with Hungarian folk danceInsertion sort – Insert-sort with Romanian folk dance Bubble-sort with Hungarian folk danceMerge-sort with Transylvanian-saxon (German) folk dance The following animations illustrate how effectively data sets from different starting points can be sorted using different algorithms.www.toptal.comThis tutorial teaches you everything about HTMLwww.w3schools.comThis tutorial will teach you CSS from basic to advancedwww.w3schools.comThis tutorial will teach you JavaScript from basic to advancedwww.w3schools.comhelps students overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of code (Visualizing code)www.pythontutor.comVisualize Code And Get Live Helpwww.pythontutor.comCheck out our interview guides. (Check at the bottom of the page for Java, JavaScript, C++, PHP, Python, Ruby, C#)www.toptal.comLooking to start the application process? Apply to AC here  You can apply online above or request additional information below. There are errors in your form.Who are you?You can now Apply Online to AC or request more information. You can also contact us Monday to Friday 9am-5pm PST or email info@alexandercollege.ca#101 - 4603 KingswayBurnaby, BC, Canada V5H 4M4#100 - 602 West Hastings StreetVancouver, BC, Canada V6B 1P2Looking to start the application process? Apply to AC here  You can apply online above or request additional information below. There are errors in your form.Who are you?

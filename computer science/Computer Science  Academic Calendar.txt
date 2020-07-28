@@ -1,0 +1,129 @@
+URL: https://fas.calendar.utoronto.ca/section/Computer-Science
+ACORN  |  Degree Explorer  |  Timetable  |  Program Toolkit  |  Sidney Smith Commons      FACULTY OF ARTS & SCIENCE >      Computer Science Programs | Computer Science CoursesUniversity Professor Emeritus 
+S. Cook, SM, PhD, FRS, FRSC 
+G. Hinton, PhD, FRS, FRSC Professors Emeriti 
+R. Baecker, MSc, PhD 
+D. Corneil, MA, PhD 
+J. Danahy, MScUrb & DesPl
+W. Enright, MSc, PhD (University of Toronto Scarborough) 
+E. Fiume, PhD, FRSC
+E. Hehner, MSc, PhD K. Jackson, MSc, PhD 
+H. Levesque, MSc, PhD, FRSC 
+R. Mathon, MSc, PhD (University of Toronto Mississauga) 
+J. Mylopoulos, MSc, PhD, FRSC 
+R. Neal, PhD
+C. Rackoff, PhD (University of Toronto Mississauga) 
+D. Wortman, MSc, PhD Senior Lecturer Emeritus 
+J. Clarke, MSc, PhD University Professor 
+A. Borodin, MSc, PhD, FRSC Professor and Chair of the Department M. Chechik, MSc, PhD Professor and Associate Chair (Research)M. Brudno, MSc, PhDProfessor and Associate Chair (Graduate Studies) G. Hirst, MSc, PhDProfessor, Teaching Stream and Associate Chair (Undergraduate Studies) 
+M. Craig, MScProfessors 
+T. Abdelrahman, MSc, PhD 
+A. Aspuru-Guzik, PhD
+F. Bacchus, MSc, PhD 
+R. Balakrishnan, MSc, PhD 
+M. Brudno, MSc, PhD
+M. Chechik, MSc, PhD C. Christara, MSc, PhD A. Demke-Brown, MSc, PhD 
+E. de Lara, MSc, PhD 
+S. Dickinson, MSc, PhD 
+S. Easterbrook, PhD 
+F. Ellen, MMath, PhD 
+D. Fleet, MSc, PhD (University of Toronto Scarborough) Y. Ganjali, MSc, PhD E. Grinspun, PhD
+A. Gupta, PhD
+V. Hadzilacos, PhD (University of Toronto Scarborough) 
+G. Hirst, MSc, PhD (University of Toronto Scarborough) 
+A. Jepson, PhD 
+N. Koudas, MSc, PhD (University of Toronto Scarborough) 
+K. Kutulakos, MSc, PhD 
+P. Marbach, MSc, PhD 
+S. McIlraith, MMath, PhD 
+R. Miller, MSc, PhD, FRSC 
+M. Molloy, MMath, PhD (University of Toronto Scarborough) 
+G. Penn, MSc, PhD 
+T. Pitassi, MSc, PhD 
+K. Singh, MSc, PhD 
+S. Stevenson, MSc, PhD 
+S. Toueg, MA, PhD K. Truong, PhD
+R. Zemel, MSc, PhD Associate Professors 
+A. Bonner, MSc, PhD (University of Toronto Mississauga)J. Burgner-Kahrs PhD (University of Toronto Mississauga) 
+A. Farzan, PhD 
+B. Schroeder, MSc, PhD (University of Toronto Scarborough) 
+R. Urtasun, PhD 
+D. Wigdor, MSc, PhD (University of Toronto Mississauga) Assistant Professors 
+I. Ahmed, PhD
+A. Anderson, PhD (University of Toronto Scarborough)
+J. Ba, PhD
+F. Chevalier, PhD
+D. Duvenaud, PhD
+M. Erdogdu, PhD
+S. Fidler, PhD
+A. Garg PhD
+M. Ghassemi, PhD
+R. Grosse, PhDT. Grossman, PhD
+A. Jacobson, PhD
+D. Levin, PhD 
+F. Long, PhDC. Maddison, PhDM. Mehri Dehnavi, PhD
+A. Nikolov, PhD 
+G. Pekhimenko, PhD (University of Toronto Scarborough)
+B. Rossman, PhD 
+S. Sachdeva, PhD (University of Toronto Mississauga)
+K. Serkh, PhD
+N. Shah, PhDF. Shkurti, PhD (University of Toronto Mississauga)
+R. Soden, PhD
+N. Vijaykumar, PhD (University of Toronto Scarborough)
+J. Williams, PhD
+Y. Xu, PhD
+H. Yuen, PhDProfessors, Teaching StreamJ. Campbell, MMath M. Craig, MSc S. Engels, MMath P. Gries, MEng 
+D. Horton, MSc
+K. Reid, MSc Associate Professors, Teaching Stream 
+G. Baumgartner, MSc T. Fairgrieve, MSc, PhD 
+D. Heap, MSc 
+F. Pitt, MSc, PhD Assistant Professors, Teaching Stream 
+D. Liu, MSc 
+J. Smith, MSc Cross Appointed 
+C. Amza, PhD 
+P. Andritsos, PhD
+G. Bader, PhD 
+T. Barfoot, PhD
+C. Beck, PhD B. Beekhuizen, PhD
+M. Chignell, PhDN. Enright-Jerger, PhDM. Fox, PhD
+B. Frey, PhD 
+A. Goel, PhD 
+M. Gruninger, PhD 
+A. Jacobsen, MSc, PhD 
+P. Kim, PhD 
+B. Li, MSc, PhD 
+D. Lie, PhD 
+J. Liebeherr, PhD 
+K. Lyons, MSc, PhD 
+E. Mendelsohn, MSc, PhD (Professor Emeritus) (University of Toronto Scarborough) 
+A. Mihailidis, PhD 
+Q. Morris, PhD 
+A. Moses, PhD 
+C. Munteanu, PhD 
+R. Neal, PhD (Professor Emeritus)  N. Papernot, PhDH. Rost, PhD 
+F. Roth, PhD 
+D. Roy, PhD 
+S. Sanner, PhD
+M. Stumm, MSc (Math), PhD Y. Sun, PhDN. Taback, PhD
+A. Veneris, MSc, PhD 
+E. Yu, MSc, PhD W. Yu, PhD
+D. Yuan, PhD 
+Z. Zhang, PhD Adjunct and Status Only M. Brubaker, PhD
+A. Butscher, PhD
+B. Buxton, MSc A. Farahmand, PhD
+A. Fazley, PhD 
+G. Gibson, PhD
+A. Goldenberg, PhD 
+M. Grech, MBA 
+B. Haibe-Kains, PhD M. Hoffman, PhD H. Huang, PhD
+A. Khan, PhD
+H. KontozopoulosA. Kreinen, PhD
+R. Johnson, PhD
+I. Jurisica, PhD
+G. Lakemeyer, PhD
+K. Larson, PhDA. Levinshtein, PhD
+F. Rudzicz, PhD 
+R. Schmidt, PhD 
+J. Simpson, PhD
+B. Taati, PhDA. Tagliasaachi, PhDS. Tsogkas, PhD 
+J. Tsotsos, PhD What is Computer Science?Despite the name, Computer Science is not really a science of computers at all. Computers are quite remarkable electronic devices, but even more remarkable is what they can be made to do: simulate the flow of air over a wing, manage communication over the Internet, control the actions of a robot, synthesize realistic images, play grandmaster-level chess, and on and on. Indeed the application of computers in activities like these has affected most areas of modern life. What these tasks have in common has little to do with the physics or electronics of computers; what matters is that they can be formulated as some sort of computation. This is the real subject matter of Computer Science: computation, and what can or cannot be done computationally.In trying to make sense of what we can get a computer to do, a wide variety of topics come up. There are, however, two recurring themes. The first is the issue of scale: how big a system can we specify without getting lost in the design, or how big a task can a computer handle within reasonable bounds of time, memory, and accuracy. A large part of Computer Science deals with these questions in one form or another. In the area of programming languages and methodology, for example, we look for notations for describing computations, and programming methodologies that facilitate the production of manageable and efficient software. In the theory of computation area, we study resource requirements in time and memory of many basic computational tasks.The second theme concerns the scope of computation. Computers were originally conceived as purely numerical calculators, but today, we tend to view them much more broadly. Part of Computer Science is concerned with understanding just how far computational ideas can be applied. In the area of artificial intelligence, for example, we ask how much of the intelligent behaviour of people can be expressed in computational terms. In the area of human-computer interaction, we ask what sorts of normal day-to-day activities of people might be supported and augmented using computers.Some Computer Science courses are offered in the evening, to allow part-time students to pursue our programs. Introductory courses and some higher-level courses are offered in the summer.The Professional Experience Year Co-op Program (PEY Co-op) offers students the opportunity to gain valuable work experience in industry, over a twelve to sixteen-month period. It is available to eligible, full-time students. Students may also take advantage of the International Exchange Program offered by CIE.  Academic Advisors, Undergraduate Office: Bahen Building, 40 St. George Street, Rooms 4290, M5S 2E4 (416-978-6360 or 416-946-8870), email: ug@cs.toronto.edu.Website: web.cs.toronto.edu  The field of Data Science is a combination of statistics and computer science methodologies that enable ‘learning from data’. A data scientist extracts information from data, and is involved with every step that must be taken to achieve this goal, from getting acquainted with the data to communicating the results in non-technical language. The Data Science Specialist program prepares students for work in the Data Science industry or government and for graduate studies in Data Science, Computer Science, or Statistics. Students in the program will benefit from a range of advanced courses in Computer Science and Statistics offered by the University of Toronto, as well as from a sequence of three integrative courses designed especially for the program.The Data Science Specialist program comprises three fundamental and highly-integrated aspects. First, students will acquire expertise in statistical reasoning, methods, and inference essential for any data analyst. Seconds, students will receive in-depth training in computer science: the design and analysis of algorithms and data structures for handling large amounts of data, and best practices in software design. Students will receive training in machine learning, which lies at the intersection of computer and statistical sciences. The third aspect is the application of computer science and statistics to produce analyses of complex, large-scale datasets, and the communication of the results of these analyses; students will receive training in these areas by taking integrative courses that are designed specifically for the Data Science Specialist program. The courses involve experiential learning: students will be working with real large-scale datasets from the domain of business, government, and/or science. The successful student will combine their expertise in computer and statistical science to produce and communicate analyses of complex large-scale datasets.Skills that graduates of the program will acquire include proficiency in statistical reasoning and computational thinking; data manipulation and exploration, visualization, and communication that are required for work as a data scientist; the ability to apply statistical methods to solve problems in the context of scientific research, business, and government; familiarity and experience with best practices in software development; and knowledge of current software infrastructure for handling large data sets. Graduates of the program will be able to demonstrate the ability to apply machine learning algorithms to large-scale datasets that arise in scientific research, government, and business; create appropriate data visualizations for complex datasets; identify and answer questions that involve applying statistical methods or machine learning algorithms to complex data, and communicating the results; present theresults and limitations of a data analysis at an appropriate technical level for the intended audience.This is a limited enrolment program. Students must have completed 4.0 credits and meet the requirements listed below to enrol.For students admitted to Arts & Science in the Year 1 Computer Science (CMP1) admission category:Variable Minimum GradeA minimum grade is needed for entry, and this minimum changes each year depending on the number of applicants. At least 20 spaces will be available each year for students applying from Year 1 Computer Science (CMP1). The following courses must be completed:To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in  CSC110Y1,  MAT137Y1, and  STA130H1, or lower than 77% in  CSC111H1. ( MAT157Y1 grades will be adjusted to account for the course's greater difficulty.) Obtaining these minimum grades does not guarantee admission to the program.For students admitted to other Arts & Science Year 1 admission categories:Special RequirementVariable Minimum GradeA minimum grade is needed for entry, and this minimum changes each year depending on available spaces and the number of applicants. The following courses must be completed:To ensure that students admitted to the program will be successful, applicants with a grade lower than 70% will not be considered for admission. ( MAT157Y1 grades will be adjusted to account for the course's greater difficulty.) Obtaining these minimum grades does not guarantee admission to the program.Notes:(13.0-13.5 credits, including at least 1.5 credits at the 400-level)

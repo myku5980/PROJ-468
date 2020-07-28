@@ -1,0 +1,47 @@
+URL: https://www.zdnet.com/article/programming-languages-python-developers-reveal-what-they-use-it-for-and-their-top-tools/
+Data science is often cited as one of the main reasons for Python's growing popularity. But while people are definitely using Python for data analysis and machine learning, not many of those using Python actually identify their role as data scientist in the Python Software Foundation's (PSF) new 2019 developer survey, which was carried out by IDE-maker JetBrains. 
+
+Salary growth for data scientists has cooled over the past two years, which could be why only a third respondents to PSF's annual developer survey who are involved in data analysis and machine learning say they are a data scientist. 
+
+DEVELOPER
+Coronavirus: From startups to supercomputers, how tech is trying to help tackle COVID-19
+Programming language Julia: Version 1.4 is even faster and brings these new features
+Visual Studio 2019: Now IntelliSense linter for C++ programming language cleans up code
+Hackathons: Best practices and winning strategies (ZDNet YouTube)
+The Best Web Hosting Providers (CNET)
+How to get a developer job (TechRepublic)
+The survey is based on responses from 24,000 Python developers from 150 countries.
+
+SEE: How to build a successful developer career (free PDF)
+
+In PSF's 2017 report, it reported that most people thought Python was primarily used for web development. But it contended that "while this was true a couple of years ago, today the number of Python data scientists is growing rapidly and is already on par with the number of web developers".
+
+Back then, PSF argued that anyone whose primary job involved data analysis or machine learning was counted as a data scientist, without asking participants to state whether they consider themselves a data scientist – which Harvard Business Review in 2012 crowned the "sexiest job of the 21st century". 
+
+PSF hasn't asked whether people consider themselves a data scientist in its past two annual developer surveys. In 2018, people who said they were a data scientist were among the 12% in the 'Other' category, while the vast majority of respondents simply identified themselves as developers.   
+
+For the 2018 report, 59% of respondents stated they used Python for data analysis, followed by 52% who said they used it for web development.
+
+The order hasn't changed this year, with data analysis remaining Python's top purpose at 59%, followed by web development at 51%, and machine learning at 40%.  
+
+Other major applications of Python include DevOps and system administration (39%), programming web tools like crawlers (37%), software testing (31%), education (26%), software prototyping (25%), network programming (21%), desktop development (18%), computer graphics (14%), embedded system development (8%), game development (7%) and mobile development (6%).
+
+However, at 28%, web development remains the top purpose when respondents were asked what they used Python for the most. It is followed by data analysis (18%), machine learning (13%), and DevOps, and system administration (9%). 
+
+Good news given that the final version of Python 2 was just released, the survey found that 90% are using Python 3, up from 84% in 2018. Of those still on Python 2, 45% are using it for web development, and 41% are using it for DevOps and system administration. PSF speculates that web development's dominance in Python 2 is because of legacy code. 
+
+Which cloud platform do Python developers prefer most? Not surprisingly, Amazon Web Services dominates with a share of 55%, followed by Google Cloud Platform with a 33% share. 
+
+A further 22% of Python developers use DigitalOcean, and 20% use Heroku. Microsoft Azure comes in at fifth place with a 19% share while 12% use PythonAnywhere. 
+
+Microsoft clearly has room to grow and, according to PSF, it did grow four percentage points over the past year. Microsoft has also been providing free tutorials for budding Python developers and encouraging them to use Azure. Meanwhile, Google Cloud Platform grew two percentage points. Digital Ocean and Heroku have lost share.     
+
+SEE: Data science interest spikes with COVID-19: Here are the online courses to get you started
+
+The top three sources for Python installation and upgrades are the operating system, followed by python.org, and Anaconda. Some 68% of Python developers are building on Linux, followed by Windows at 48%, while macOS has a 29% share.  
+
+The top web frameworks for Python are Flask and Django, while the leading data-science frameworks and libraries are NumPy, Pandas, Matplotlib, SciPy, SciKit-learn, TensorFlow, Keras, Seaborn, and Facebook's PyTorch, and NLTK.  
+
+The PyCharm integrated development environment (IDE) from JetBrains is once again the top IDE with a 33% share, followed by Microsoft's open-source cross-platform editor VS Code with a 24% share. 
+
+Python adoption is often attributed to its moderate learning curve. The survey found that 44% of users have just two years' experience and 30% had three to five years' experience. 

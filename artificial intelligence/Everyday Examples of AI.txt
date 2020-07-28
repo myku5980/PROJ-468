@@ -1,0 +1,208 @@
+Everyday Examples of Artificial Intelligence and Machine Learning
+avatar
+Last updated on April 11, 2020, published by Daniel Faggella
+Daniel Faggella is Head of Research at Emerj. Called upon by the United Nations, World Bank, INTERPOL, and leading enterprises, Daniel is a globally sought-after expert on the competitive strategy implications of AI for business and government leaders.
+
+Share to
+LinkedIn Twitter Facebook Email
+Everyday Examples of Artificial Intelligence and Machine Learning 950×540
+With all the excitement and hype about AI that’s “just around the corner”—self-driving cars, instant machine translation, etc.—it can be difficult to see how AI is affecting the lives of regular people from moment to moment. What are examples of artificial intelligence that you’re already using—right now
+
+At Emerj, the AI Research and Advisory Company, we work with ambitious enterprise leaders to develop powerful AI strategies and find high-ROI AI projects. While this often implies examining the AI initiatives of their peers, new AI use-cases and application ideas can come from consumer technologies as well – and that’s the focus of this article.
+
+In the process of navigating to these words on your screen, you almost certainly used AI. You’ve also likely used AI on your way to work, communicating online with friends, searching on the web, and making online purchases. 
+
+We distinguish between AI and machine learning (ML) throughout this article when appropriate. At Emerj, we’ve developed concrete definitions of both artificial intelligence andmachine learning based on a panel of expert feedback. To simplify the discussion, think of AI as the broader goal of autonomous machine intelligence, and machine learning as the specific scientific methods currently in vogue for building AI. All machine learning is AI, but not all AI is machine learning.
+
+Our enumerated examples of AI are divided into Work & School and Home applications, though there’s plenty of room for overlap. Each example is accompanied with a “glimpse into the future” that illustrates how AI will continue to transform our daily lives in the near future.
+
+
+
+Examples of Artificial Intelligence Work & School
+Commuting
+According to a 2015 report by the Texas Transportation Institute at Texas A&M University, commute times in the US have been steadily climbing year-over-year, resulting in 42 hours of rush-hour traffic delay per commuter in 2014—more than a full work week per year, with an estimated $160 billion in lost productivity. Clearly, there’s massive opportunity here for AI to create a tangible, visible impact in every person’s life.
+
+Reducing commute times is no simple problem to solve.  A single trip may involve multiple modes of transportation (i.e. driving to a train station, riding the train to the optimal stop, and then walking or using a ride-share service from that stop to the final destination), not to mention the expected and the unexpected construction; accidents; road or track maintenance; and weather conditions can constrict traffic flow with little to no notice. Furthermore, long-term trends may not match historical data, depending on the changes in population count and demographics, local economics, and zoning policies. Here’s how AI is already helping to tackle the complexities of transportation.
+
+1 –  Google’s AI-Powered Predictions
+
+Using anonymized location data from smartphones, Google Maps (Maps) can analyze the speed of movement of traffic at any given time. And, with its acquisition of crowdsourced traffic app Waze in 2013, Maps can more easily incorporate user-reported traffic incidents like construction and accidents. Access to vast amounts of data being fed to its proprietary algorithms means Maps can reduce  commutes by suggesting the fastest routes to and from work.
+
+Google Maps
+
+Image Dijkstra’s algorithm (Motherboard)
+
+2 –  Ridesharing Apps Like Uber and Lyft
+
+How do they determine the price of your ride How do they minimize the wait time once you hail a car How do these services optimally match you with other passengers to minimize detours The answer to all these questions is ML.
+
+Engineering Lead for Uber ATC  Jeff Schneider discussed in an NPR interview how the company uses ML to predict rider demand to ensure that “surge pricing”(short periods of sharp price increases to decrease rider demand and increase driver supply) will soon no longer be necessary. Uber’s Head of Machine Learning Danny Lange confirmed Uber’s use of machine learning for ETAs for rides, estimated meal delivery times on UberEATS, computing optimal pickup locations, as well as for fraud detection.
+
+Uber heat map
+
+Image Uber heat map (Wired)
+
+3 — Commercial Flights Use an AI Autopilot
+
+AI autopilots in commercial airlines is a  surprisingly early use of AI technology that dates as far back as 1914, depending on how loosely you define autopilot. The New York Times reports that the average flight of a Boeing plane involves only seven minutes of human-steered flight, which is typically reserved only for takeoff and landing.
+
+Glimpse into the future
+
+In the future, AI will shorten your commute even further via self-driving cars that result in up to 90% fewer accidents, more efficient ride sharing to  reduce the number of cars on the road by up to 75%, and smart traffic lights that reduce wait times by 40% and overall travel time by 26% in a pilot study.
+
+The timeline for some of these changes is unclear, as predictions vary about when self-driving cars will become a reality BI Intelligence predicts fully-autonomous vehicles will debut in 2019; Uber CEO Travis Kalanick says the timeline for self-driving cars is “a years thing, not a decades thing”; Andrew Ng, Chief Scientist at Baidu and Stanford faculty member, predicted in early 2016 that self-driving cars will be mass produced by 2021. On the other hand, The Wall Street Journal interviewed several experts who say fully autonomous vehicles are decades away. Emerjalso discussed the timeline for a self-driving car with Eran Shir, CEO of AI-powered dashcam app Nexar, who believes virtual chauffeurs are closer than we think. 
+
+
+Email
+1 – Spam Filters
+
+Your email inbox seems like an unlikely place for AI, but the technology is largely powering one of its most important features the spam filter. Simple rules-based filters (i.e. “filter out messages with the words ‘online pharmacy’ and ‘Nigerian prince’ that come from unknown addresses”) aren’t effective against spam, because spammers can quickly update their messages to work around them. Instead, spam filters must continuously learn from a variety of signals, such as the words in the message, message metadata (where it’s sent from, who sent it, etc.).
+
+It must further personalize its results based on your own definition of what constitutes spam—perhaps that daily deals email that you consider spam is a welcome sight in the inboxes of others. Through the use of machine learning algorithms, Gmail successfully filters 99.9% of spam. 
+
+2 – Smart Email Categorization
+
+Gmail uses a similar approach to categorize your emails into primary, social, and promotion inboxes, as well as labeling emails as important. In a research paper titled, “The Learning Behind Gmail Priority Inbox”, Google outlines its machine learning approach and notes “a huge variation between user preferences for volume of important mail…Thus, we need some manual intervention from users to tune their threshold. When a user marks messages in a consistent direction, we perform a real-time increment to their threshold.” Every time you mark an email as important, Gmail learns. The researchers tested the effectiveness of Priority Inbox on Google employees and found that those with Priority Inbox “spent 6% less time reading email overall, and 13% less time reading unimportant email.”
+
+Glimpse into the future
+
+Can your inbox reply to emails for you Google thinks so, which is why it  introduced smart reply toInbox in 2015, a next-generation email interface. Smart reply uses machine learning to automatically suggest three different brief (but customized) responses to answer the email. As of early 2016, 10% of mobile Inbox users’ emails were sent via smart reply. In the near future, smart reply will be able to provide increasingly complex responses. Google has already demonstrated its intentions in this area withAllo, a new instant messaging app which can use smart reply to provide both text and emoji responses.
+
+
+Grading and Assessment   
+1 –Plagiarism Checkers
+
+Many high school and college students are familiar with services like Turnitin, a popular tool used by instructors to analyze students’ writing for plagiarism. While Turnitin doesn’t reveal precisely how it detects plagiarism, research demonstrates how ML can be used to develop a plagiarism detector.
+
+Historically, plagiarism detection for regular text (essays, books, etc.) relies on a having a massive database of reference materials to compare to the student text; however, ML can help detect the plagiarizing of sources that are not located within the database, such as sources in foreign languages or older sources that have not been digitized. For instance, two researchers used ML to predict, with 87% accuracy, when source code had been plagiarized. They looked at a variety of stylistic factors that could be unique to each programmer, such as average length of line of code, how much each line was indented, how frequent code comments were, and so on.
+
+The algorithmic key to plagiarism is the similarity function, which outputs a numeric estimate of how similar two documents are. An optimal similarity function not only is accurate in determining whether two documents are similar, but also efficient in doing so. A brute force search comparing every string of text to every other string of text in a document database will have a high accuracy, but be far too computationally expensive to use in practice. One MIT paper highlights the possibility of using machine learning to optimize this algorithm. The optimal approach will most likely involve a combination of man and machine. Instead of reviewing every single paper for plagiarism or blindly trusting an AI-powered plagiarism detector, an instructor can manually review any papers flagged by the algorithm while ignoring the rest.
+
+2 –Robo-readers
+
+Essay grading is very labor intensive, which has encouraged researchers and companies to build essay-grading AIs. While their adoption varies among classes and educational institutions, it’s likely that you (or a student you know) has interacted with these “robo-readers’ in some way. The Graduate Record Exam (GRE), the primary test used for graduate school, grades essays using one human reader and one robo-reader called e-Rater. If the scores differ substantially, a second human reader is brought in to settle the discrepancy. This addresses the primary concern with robo-readers if students can deduce the heuristics e-Rater’s use for determining their grade, they could easily exploit them to write nonsensical essays that would still score highly. This hybrid approach contrasts with how the ETS handles the SAT, where two human graders evaluate essays and a third is brought in if the scores differ substantially between the two humans. The synergistic approach in the former shows that by pairing human intelligence with artificial intelligence, the overall grading system costs less and accomplishes more.
+
+Glimpse into the future
+
+There are many promising avenues for AI to improve education in the future. One-size-fits-all classes may be replaced by personalized, adaptive learning that is tailored to each student’s individual strength and weaknesses. ML may also be used to identify at-risk students early on so that schools can focus extra resources on those students and decrease dropout rates.
+
+BankingPersonal Finance
+One of Emerj’s most popular guides is on machine learning in finance. While the guide discusses machine learning in an industry context, your regular, everyday financial transactions are also heavily reliant on machine learning.
+
+1 – Mobile Check Deposits
+
+Most large banks offer the ability to deposit checks through a smartphone app, eliminating a need for customers to physically deliver a check to the bank. According to a 2014 SEC filing, the vast majority of major banks rely on technology developed by Mitek, which uses AI and ML to decipher and convert handwriting on checks into text via OCR. 
+
+Mobile deposit
+
+Image Mobile deposit (The New York Times)
+
+2 – Fraud Prevention
+
+How can a financial institution determine if a transaction is fraudulent In most cases, the daily transaction volume is far too high for humans to manually review each transaction. Instead, AI is used to create systems that learn what types of transactions are fraudulent. FICO, the company that creates the well-known credit ratings used to determine creditworthiness, uses neural networks to predict fraudulent transactions. Factors that may affect the neural network’s final output include recent frequency of transactions, transaction size, and the kind of retailer involved.
+
+3 – Credit Decisions
+
+Whenever you apply for a loan or credit card, the financial institution must quickly determine whether to accept your application and if so, what specific terms (interest rate, credit line amount, etc.) to offer. FICO uses ML both in developing your FICO score, which most banks use to make credit decisions, and in determining the specific risk assessment for individual customers. MIT researchers found that machine learning could be used to reduce a bank’s losses on delinquent customers by up to 25%.
+
+Glimpse into the future
+
+Can a robot give you sound investing advice That’s the premise behind upstarts like Wealthfront and Betterment, which attempt to automate the best practices of seasoned investors and offer them to customers at a much lower cost than traditional fund managers. In early 2016, Wealthfront announced it was taking an AI-first approach, promising “an advice engine rooted in artificial intelligence and modern APIs, an engine that we believe will deliver more relevant and personalized advice than ever before.” While there is no data on the long-term performance of robo-advisors (Betterment was founded in 2008, Wealthfront in 2011), they will become the norm for regular people looking to invest their savings. This is already happening with younger people—in the above announcement, Wealthfront notes that 60% of its customers are under the age of 35.
+
+Examples of Artificial Intelligence Home
+Social Networking
+1 – Facebook
+
+When you upload photos to Facebook, the service automatically highlights faces and suggests friends
+
+to
+
+tag. How can it instantly identify which of your friends is in the photo Facebook uses AI to recognize faces. In a short video highlighting their AI research (below), Facebook discusses the use of artificial neural networks—ML algorithms that mimic the structure of the human brain—to power facial recognition software. The company has invested heavily in this area not only within Facebook, but also through the acquisitions of facial-recognition startups like Face.com, which Facebook acquired in 2012 for a rumored $60M, Masquerade (2016, undisclosed sum),  and Faciometrics (2016, undisclosed sum).
+
+Facial recognition
+
+Image Facebook’s facial recognition (Huffington Post)
+
+Facebook also uses AI to personalize your newsfeed and ensure you’re seeing posts that interest you, as discussed in an Emerj interview with Facebook’s Hussein Mehanna. And, of particular business interest to Facebook is showing ads that are relevant to your interests. Better targeted ads mean you’re more likely to click them and buy something from the advertisers—and when you do, Facebook gets paid. In the first quarter of 2016, Facebook and Google secured a total of 85% of the online ad market—precisely because of deeply-targeted advertisements.
+
+In June 2016, Facebook announced a new AI initiative DeepText, a text understanding engine that, the company claims “can understand with near-human accuracy the textual content of several thousand posts per second, spanning more than 20 languages.” DeepText is used in Facebook Messenger to detect intent—for instance, by allowing you to hail an Uber from within the app when you message “I need a ride” but not when you say, “I like to ride donkeys.” DeepText is also used for automating the removal of spam, helping popular public figures sort through the millions of comments on their posts to see those most relevant, identify for sale posts automatically and extract relevant information, and identify and surface content in which you might be interested.
+
+2 – Pinterest
+
+Pinterest uses computer vision, an application of AI where computers are taught to “see,” in order to automatically identify objects in images (or “pins”) and then recommend visually similar pins. Other applications of machine learning at Pinterest include spam prevention, search and discovery, ad performance and monetization, and email marketing.
+
+3 – Instagram
+
+Instagram, which Facebook acquired in 2012, uses machine learning to identify the contextual meaning of emoji, which have been steadily replacing slang (for instance, a laughing emoji could replace “lol”). By algorithmically identifying the sentiments behind emojis, Instagram can create and auto-suggest emojis and emoji hashtags. This may seem like a trivial application of AI, but Instagram has seen a massive increase in emoji use among all demographics, and being able to interpret and analyze it at large scale via this emoji-to-text translation sets the basis for further analysis on how people use Instagram.
+
+4 – Snapchat
+
+Snapchat introduced facial filters, called Lenses, in 2015. These filters track facial movements, allowing users to add animated effects or digital masks that adjust when their faces moved. This technology is  powered by the 2015 acquisition of Looksery (for a rumored $150 million), a Ukranian company with patents on using machine learning to track movements in video.
+
+Glimpse into the future
+
+Facebook is betting that the future of messaging will involve conversing with AI chatbots. In early 2015, it  acquired Wit.ai, an engine that allows developers to create bots that easily integrate natural language processing into their software. A few months later, it opened its messenger platform to developers, allowing anyone to build a chatbot and integrate Wit.ai’s bot training capability to more easily create conversational bots. Slack, a social messaging tool typically used in the workplace, also allows third parties to incorporate AI-powered chatbots and has even invested in companies that make them. Soon, your shopping, errands, and day-to-day tasks may be completed within a conversation with an AI chatbot on your favorite social network.
+
+Facebook chat bot
+
+GIF Facebook-hosted chatbot (VentureBeat)
+
+Online Shopping
+1 –Search
+
+Your Amazon searches (“ironing board”, “pizza stone”, “Android charger”, etc.) quickly return a list of the most relevant products related to your search. Amazon doesn’t reveal exactly how its doing this, but in a description of its product search technology, Amazon notes that its algorithms “automatically learn to combine multiple relevance features. Our catalog’s structured data provides us with many such relevance features and we learn from past search patterns and adapt to what is important to our customers.”
+
+2 –Recommendations
+
+You see recommendations for products you’re interested in as “customers who viewed this item also viewed” and  “customers who bought this item also bought”, as well as via personalized recommendations on the home page,  bottom of item pages, and through email. Amazon uses artificial neural networks to generate these product recommendations.
+
+While Amazon doesn’t reveal what proportion of its sales come from recommendations, research has shown that recommenders increase sales (in this linked study, by 5.9%, but in other studies recommenders have shown up to a 30% increase in sales) and that a product recommendation carries the same sales weight as a two-star increase in average rating (on a five-star scale).
+
+3 – (More) Fraud Protection
+
+Machine learning is used for fraud prevention in online credit card transactions. Fraud is the primary reason for online payment processing being more costly for merchants than in-person transactions. Square, a credit card processor popular among small businesses, charges 2.75% for card-present transactions, compared to 3.5% + 15 cents for card-absent transactions. AI is deployed to not only prevent fraudulent transactions, but also minimize the number of legitimate transactions declined due to being falsely identified as fraudulent.
+
+In a press release announcing the rollout of its AI technology, MasterCard noted that 13 times more revenue is lost to false declines than to fraud. By utilizing AI that can learn your purchasing habits, credit card processors minimize the probability of falsely declining your card while maximizing the probability of preventing somebody else from fraudulently charging it.
+
+Glimpse into the future
+
+The key to online shopping has been personalization; online retailers increase revenue by helping you find and buy the products you’re interested in. We may soon see retailers take it one step further and design your entire experience individually for you. Google already does this with search, even with users who are logged out, so this is well within the realm of possibility for retailers. Startups likeLiftIgniter offer “personalization as a service” to online businesses. Others, like Optimizely, allow businesses to run extensive “AB tests”, where businesses can run multiple versions of their sites simultaneously to determine which results in the most engaged users.
+
+URL: https://emerj.com/ai-sector-overviews/everyday-examples-of-ai/
+
+Emerj Plus Banner
+
+Mobile Use
+1 –Voice-to-Text
+
+A standard feature on smartphones today is voice-to-text. By pressing a button or saying a particular phrase (“Ok Google”, for example), you can start speaking and your phone converts the audio into text. Nowadays, this is a relatively routine task, but for many years, accurate automated transcription was beyond the abilities of even the most advanced computers. Google uses artificial neural networks to power voice search. Microsoft claims to have developed a speech-recognition system that can transcribe conversation slightly more accurately than humans.
+
+2 – Smart Personal Assistants
+
+Now that voice-to-text technology is accurate enough to rely on for basic conversation, it has become the control interface for a new generation of smart personal assistants. The first iteration were simpler phone assistants like Siri and Google Now (now succeeded by the more sophisticated Google Assistant), which could perform internet searches, set reminders, and integrate with your calendar.
+
+Amazon expanded upon this model with the announcement of complimentary hardware and software components 
+
+Alexa, an AI-powered personal assistant that accepts voice commands to create to-do lists, order items online, set reminders, and answer questions (via internet searches)
+Echo (and later, Dot) smart speakers that allow you to integrate Alexa into your living room and use voice commands to ask natural language questions, play music, order pizza, hail an Uber, and integrate with smart home devices.
+Microsoft has followed suit with Cortana, its own AI assistant that comes pre-loaded on Windows computers and Microsoft smartphones.
+
+Glimpse into the future
+
+Smart assistants will be the key to bridging the gap between humans and “smart” homes. In October 2016, Google announced Google Home—its competitor to Amazon Echo that features deep integration with other Google products, like YouTube, Google Play Music, Nest, and Google Assistant. Through voice commands, users can play music; ask natural language questions; receive sports, news, and finance updates; call an Uber; and make appointments and reminders. According to market research firm Consumer Intelligence Research Partners, Amazon has sold over 5 million Echo devices as of November 2016; however, a month later Amazon’s press release boasted a 9x increase in Echo family sales over the previous year’s holiday sales, suggesting that 5 million sold is a significant underestimate. AI-assistants, while still not used by the majority of Americans, are rapidly spilling over into the mainstream.
+
+Facebook CEO Mark Zuckerberg showed what’s currently possible by spending a year building Jarvis, an imitation of the super-intelligent AI assistant in Robert Downey Jr.’s Iron Man films. In a Facebook post, he outlines connecting the myriad of home devices to one network; teaching Jarvis his preferences so it could play music and recognize friends at the door and let them in; building a Facebook messenger bot for Jarvis to issue text commands; and creating an iOS speech recognition app to issue voice commands.
+
+The primary limitation for Zuckerberg, a billionaire with daily access to the world’s best engineers, was not technology, but rather having devices that could easily communicate with each other and Jarvis in a central, unified system. This suggests that if Google or Amazon is successful in integrating their smart speakers with many other home devices (or proprietary versions), that Jarvis-like home AI would be available to anyone in the next five years.
+
+Jarvis
+
+Image Mark Zuckerberg’s Jarvis
+
+Wrap Up
+We’ve only scratched the surface of examples of AI and ML in day-to-day life. Specific industries and hobbies have habitual interaction with AI far beyond what’s explored in this article. For example, casual chess players regularly use AI powered chess engines to analyze their games and practice tactics, and bloggers often use mailing-list services that use ML to optimize reader engagement and open-rates.
+
+How will AI affect daily life on a grand scale in the near future Futurist and Wired magazine co-founder Kevin Kelly predicts that, as AI becomes more deeply integrated in our lives, it will become the new infrastructure powering a second industrial revolution.
+
+Emerj for Enterprise Leaders
+Many of the AI capabilities listed in this article have strong use-cases in business. At Emerj, we help business leaders discover where AI fits at their companies through our AI Opportunity Landscapes. Clients use AI Opportunity Landscapes to pick high ROI AI projects that allow them to keep up with their competitors and win market share. Contact us to find out where your company can take advantage of AI capabilities like machine vision, chatbots, and predictive analytics.

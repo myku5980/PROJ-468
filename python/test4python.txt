@@ -1,0 +1,393 @@
+URL: https://www.pythonforbeginners.com/basics
+
+Basics
+Our Python Basics articles cover everything for the beginning programmer. If you are just starting to learn python, this is a great place to start. We cover setting up your environment to every facet of python functionality. You will find plenty to learn from in this section.
+
+Python Syntax Basics
+Last Updated: May 20, 2020
+
+Before you start writing your first Python program, you’ve got to learn the basics. We will walk you through Python syntax basics that will help as a … [Read more...]about Python Syntax Basics
+
+Filed Under: Basics
+Date Originally Published: September 27, 2019
+
+Hello Developers. Meet Python. The King of Growth
+Last Updated: May 25, 2020
+
+For the most part, it’s difficult to crown just one language as the supreme leader of standard use in the development world. There isn’t a language … [Read more...]about Hello Developers. Meet Python. The King of Growth
+
+Filed Under: Basics
+Date Originally Published: January 3, 2018
+
+Python – Quick Guide
+Last Updated: June 22, 2020
+
+Python Basics This article summarizes the most important Python topics and provides links and summary information to more detailed articles on our … [Read more...]about Python – Quick Guide
+
+Filed Under: Basics
+Date Originally Published: March 9, 2016
+
+The del Statement
+Last Updated: May 21, 2020
+
+The del statement can be used to remove an item from a list by referring to its index, rather than its value. For example, if you have a list with … [Read more...]about The del Statement
+
+Filed Under: Basics
+Date Originally Published: March 3, 2016
+
+__str__ vs. __repr__
+Last Updated: May 20, 2020
+
+According to the official Python documentation, __repr__ is a built-in function used to compute the "official" string reputation of an object, while … [Read more...]about __str__ vs. __repr__
+
+Filed Under: Basics
+Date Originally Published: December 22, 2015
+
+Break and Continue Statements
+Last Updated: May 20, 2020
+
+Break statements exist in Python to exit or "break" a for or while conditional loop. When the loop ends, the code picks up from and executes the next … [Read more...]about Break and Continue Statements
+
+Filed Under: Basics
+Date Originally Published: October 22, 2015
+
+Numeric Types in Python
+Last Updated: May 23, 2020
+
+In any OOP language, there are many different data types. In Python, number data types are used to store numeric values. There are four different … [Read more...]about Numeric Types in Python
+
+Filed Under: Basics
+Date Originally Published: October 16, 2015
+
+Make your life easier with Virtualenvwrapper
+Last Updated: May 25, 2020
+
+When you do a lot of Python programming, you can make a mess of your system with Pip. Different apps need different requirements. One app needs … [Read more...]about Make your life easier with Virtualenvwrapper
+
+Filed Under: Basics
+Date Originally Published: January 25, 2014
+
+Python Websites and Tutorials
+Last Updated: June 6, 2020
+
+The list below is made to help new Python programmers to find the best python websites and tutorials around the web! Python Websites Tutorials Learn … [Read more...]about Python Websites and Tutorials
+
+Filed Under: Basics
+Date Originally Published: October 29, 2013
+
+How to use Pip and PyPI
+Last Updated: May 20, 2020
+
+Pip - Overview The pip command is a tool for installing and managing Python packages, such as those found in the Python Package Index. It's a … [Read more...]about How to use Pip and PyPI
+
+Filed Under: Basics
+Date Originally Published: August 30, 2013
+
+String Manipulation in Python
+Last Updated: May 20, 2020
+
+Overview A string is a list of characters in order. A character is anything you can type on the keyboard in one keystroke, like a letter, a number, … [Read more...]about String Manipulation in Python
+
+Filed Under: Basics
+Date Originally Published: April 9, 2013
+
+List Manipulation in Python
+Last Updated: May 22, 2020
+
+Overview List is one of the simplest and most important data structures in Python. Lists are enclosed in square brackets [ ] and each item is … [Read more...]about List Manipulation in Python
+
+Filed Under: Basics
+Date Originally Published: April 7, 2013
+
+List Comprehensions in Python
+Last Updated: June 8, 2020
+
+List comprehensions provide a concise way to create lists. It consists of brackets containing an expression followed by a for clause, then zero or … [Read more...]about List Comprehensions in Python
+
+Filed Under: Basics
+Date Originally Published: March 21, 2013
+
+Python Resources
+Last Updated: June 4, 2020
+
+  Python web application frameworks djangoDjango is a high-level Python Web framework.http://www.djangoproject.com/ web2pyAn open source … [Read more...]about Python Resources
+
+Filed Under: Basics
+Date Originally Published: March 5, 2013
+
+IPython a short introduction
+Last Updated: June 6, 2020
+
+Overview The goal of this article is to write a short introduction to IPython. While IPython has two main components (an interactive Python Shell and … [Read more...]about IPython a short introduction
+
+Filed Under: Basics
+Date Originally Published: February 26, 2013
+
+Keywords in Python
+Last Updated: May 25, 2020
+
+What are keywords? Keywords in Python are reserved words that cannot be used as ordinaryidentifiers. They must be spelled exactly as they are … [Read more...]about Keywords in Python
+
+Filed Under: Basics
+Date Originally Published: February 19, 2013
+
+Python If…Elif…Else Statement
+Last Updated: May 22, 2020
+
+What are Conditions? Conditions tests if a something is True or False, and it uses Boolean values (type bool) to check that. You see that … [Read more...]about Python If…Elif…Else Statement
+
+Filed Under: Basics
+Date Originally Published: February 13, 2013
+
+How to use Python virtualenv
+Last Updated: May 25, 2020
+
+What is Virtualenv? A Virtual Environment, put simply, is an isolated working copy of Python which allows you to work on a specific project without … [Read more...]about How to use Python virtualenv
+
+Filed Under: Basics
+Date Originally Published: February 5, 2013
+
+Python Operators
+Last Updated: May 25, 2020
+
+Arithmetic Operators Python includes the +, -, *, /, % (modulus), and ** (exponentiation) operators Assume variable a holds 10 and variable b holds … [Read more...]about Python Operators
+
+Filed Under: Basics
+Date Originally Published: January 21, 2013
+
+Python Setup
+Last Updated: June 2, 2020
+
+Python is free and open source, available for all operating systems from python.org. If not already installed, this article will help you with your … [Read more...]about Python Setup
+
+Filed Under: Basics
+Date Originally Published: January 17, 2013
+
+Using the Platform module in Python
+Last Updated: May 24, 2020
+
+What is it used for? The platform module in Python is used to access the underlying platform’s data, such as, hardware, operating system, and … [Read more...]about Using the Platform module in Python
+
+Filed Under: Basics
+Date Originally Published: January 16, 2013
+
+Loops in Python
+Last Updated: June 1, 2020
+
+All programming languages need ways of doing similar things many times, this is called iteration. For Loops For loops allows us to iterate over … [Read more...]about Loops in Python
+
+Filed Under: Basics
+Date Originally Published: January 5, 2013
+
+Python Docstrings
+Last Updated: May 20, 2020
+
+What is a Docstring? Python documentation strings (or docstrings) provide a convenient way of associating documentation with Python modules, … [Read more...]about Python Docstrings
+
+Filed Under: Basics
+Date Originally Published: January 3, 2013
+
+Download and Install Python
+Last Updated: May 25, 2020
+
+Overview Python is a interpreted language which means that the code is translated (interpreted) to binary code while the program runs. That is … [Read more...]about Download and Install Python
+
+Filed Under: Basics
+Date Originally Published: December 27, 2012
+
+Lists
+Last Updated: June 8, 2020
+
+What is a List? The simplest data structure in Python and is used to store a list of values. Lists are collections of items (strings, integers, or … [Read more...]about Lists
+
+Filed Under: Basics
+Date Originally Published: December 25, 2012
+
+Functions
+Last Updated: May 23, 2020
+
+What is a function in Python? A function is something you can call (possibly with some parameters, the things you put in the parentheses), which … [Read more...]about Functions
+
+Filed Under: Basics
+Date Originally Published: December 22, 2012
+
+What is a Dictionary in Python?
+Last Updated: June 1, 2020
+
+Dictionary is another data type in Python. Dictionaries are collections of items that have a "key" and a "value". Python dictionaries are also known … [Read more...]about What is a Dictionary in Python?
+
+Filed Under: Basics
+Date Originally Published: December 16, 2012
+
+What Are Strings In Python?
+Last Updated: June 6, 2020
+
+What is a string? A string is a list of characters in order. A character is anything you can type on the keyboard in one keystroke, like a letter, a … [Read more...]about What Are Strings In Python?
+
+Filed Under: Basics
+Date Originally Published: December 12, 2012
+
+Using math in python
+Last Updated: May 25, 2020
+
+Math in Python The Python distribution includes the Python interpreter, a very simple development environment, called IDLE, libraries, tools, and … [Read more...]about Using math in python
+
+Filed Under: Basics
+Date Originally Published: October 12, 2012
+
+Getting user input from the keyboard
+Last Updated: May 20, 2020
+
+Raw_Input and Input There are two functions in Python that you can use to read data from the user: raw_input and input.  You can store the results … [Read more...]about Getting user input from the keyboard
+
+Filed Under: Basics
+Date Originally Published: October 10, 2012
+
+How to use Virtualenv in Python
+Last Updated: May 22, 2020
+
+This post will describe what Virtualenv is and how you can use it. What is Virtualenv? Virtualenv is a tool to create isolated Python environments, … [Read more...]about How to use Virtualenv in Python
+
+Filed Under: Basics
+Date Originally Published: October 7, 2012
+
+How to use Pip in Python
+Last Updated: May 22, 2020
+
+Pip is a package management system used to install and manage software packages, such as those found in the Python Package Index. What is Pip? Pip is … [Read more...]about How to use Pip in Python
+
+Filed Under: Basics
+Date Originally Published: October 6, 2012
+
+Python : Easy_Install Package Manager
+Last Updated: May 22, 2020
+
+Easy_Install Package Manager This post will be the first in a series of "Python Packing Manager" posts. To know which one you are going to use, can … [Read more...]about Python : Easy_Install Package Manager
+
+Filed Under: Basics
+Date Originally Published: October 5, 2012
+
+Python : List Methods
+Last Updated: May 24, 2020
+
+Just like string methods, list methods are working on the list it's being called from, if you for example have a list called: list1 = ["Movies", … [Read more...]about Python : List Methods
+
+Filed Under: Basics
+Date Originally Published: October 4, 2012
+
+Python : String Methods
+Last Updated: June 6, 2020
+
+String methods are working on the string its called from, if you have a string called, string = "Hello World", then the string method is called such … [Read more...]about Python : String Methods
+
+Filed Under: Basics
+Date Originally Published: October 4, 2012
+
+Date and Time in Python
+Last Updated: June 2, 2020
+
+Date and Time in Python In my last post about datetime & time modules in Python, I mostly used the strftime(format) method to print out the dates … [Read more...]about Date and Time in Python
+
+Filed Under: Basics
+Date Originally Published: October 4, 2012
+
+How to use Date and Time in Python
+Last Updated: June 6, 2020
+
+Date and Time This post will show some examples using Pythons datetime and time modules. In a previous post, basic date and time types in Python, I … [Read more...]about How to use Date and Time in Python
+
+Filed Under: Basics
+Date Originally Published: October 3, 2012
+
+Variables in Python
+Last Updated: May 25, 2020
+
+Variables You can use any letter, the special characters "_" and every number provided you do not start with it. White spaces and signs with special … [Read more...]about Variables in Python
+
+Filed Under: Basics
+Date Originally Published: September 29, 2012
+
+Python : List examples
+Last Updated: May 24, 2020
+
+What are lists? Remember that a list is created with square brackets [ ] and the elements have to be within them. The elements in a list don't have … [Read more...]about Python : List examples
+
+Filed Under: Basics
+Date Originally Published: September 29, 2012
+
+Conditional statements in Python
+Last Updated: June 6, 2020
+
+Conditional statements In programming, very often we want to check the conditions and change the behavior of the program. How to use Conditional … [Read more...]about Conditional statements in Python
+
+Filed Under: Basics
+Date Originally Published: September 25, 2012
+
+Using the Python Interpreter
+Last Updated: May 25, 2020
+
+Python interpreter The Python interpreter is usually installed in /usr/local/bin/python on machines where it is available; Putting /usr/local/bin in … [Read more...]about Using the Python Interpreter
+
+Filed Under: Basics
+Date Originally Published: September 25, 2012
+
+Strip Characters in Python
+Last Updated: May 24, 2020
+
+Strip Methods Python strings have the strip(), lstrip(), rstrip() methods for removing any character from both ends of a string. If the characters to … [Read more...]about Strip Characters in Python
+
+Filed Under: Basics
+Date Originally Published: September 24, 2012
+
+Python : Tuples Overview
+Last Updated: May 22, 2020
+
+Tuple is another data type in Python. A tuple consists of values separated by commas. Tuples are always enclosed in parentheses. Tuples are for … [Read more...]about Python : Tuples Overview
+
+Filed Under: Basics
+Date Originally Published: September 24, 2012
+
+Basic date and time types in Python
+Last Updated: May 23, 2020
+
+Date and Time The date, datetime, and time objects all support a strftime(format) method, to create a string representing the time under the control … [Read more...]about Basic date and time types in Python
+
+Filed Under: Basics
+Date Originally Published: September 23, 2012
+
+Booleans, True or False in Python
+Last Updated: May 20, 2020
+
+What are Boolean? Boolean values are the two constant objects False and True. They are used to represent truth values (other values can also be … [Read more...]about Booleans, True or False in Python
+
+Filed Under: Basics
+Date Originally Published: September 21, 2012
+
+Strings Formatting in Python
+Last Updated: May 23, 2020
+
+Overview Python supports the usage of format strings. There are different types of format specifier, and every specifier acts as a placeholder for … [Read more...]about Strings Formatting in Python
+
+Filed Under: Basics
+Date Originally Published: September 21, 2012
+
+Python Strings Quotes
+Last Updated: June 4, 2020
+
+Overview Strings can be enclosed in single quotes or double quotes. Single quoted string can contain double quotes and double quoted string … [Read more...]about Python Strings Quotes
+
+Filed Under: Basics
+Date Originally Published: September 20, 2012
+
+Built-in List Methods in Python
+Last Updated: May 24, 2020
+
+List Built-In Methods The data type "List" has several built-in methods. s = ['h','e','l','l','o'] #create a list s.append('d') … [Read more...]about Built-in List Methods in Python
+
+Filed Under: Basics
+Date Originally Published: September 20, 2012
+
+Strings Built-In Methods
+Last Updated: May 24, 2020
+
+Strings Built-In Methods In this post I want to show what you can do with the built-in methods for Strings. Let's first create a string with the value … [Read more...]about Strings Built-In Methods

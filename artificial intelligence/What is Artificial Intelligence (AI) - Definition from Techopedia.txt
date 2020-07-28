@@ -1,0 +1,33 @@
+URL: https://www.techopedia.com/definition/190/artificial-intelligence-ai
+Artificial intelligence (AI), also known as machine intelligence, is a branch of computer science that aims to imbue software with the ability to analyze its environment using either predetermined rules and search algorithms, or pattern recognizing machine learning models, and then make decisions based on those analyses.In this way, AI attempts to mimic biological intelligence to allow the software application or system to act with varying degrees of autonomy, thereby reducing manual human intervention for a wide range of functions.While AI often invokes images of the sentient computer overlord of science fiction, the current reality is far different. At its heart, AI uses the same basic algorithmic functions that drive traditional software, but applies them in a different way.A standard warehouse management system, for example, can show the current levels of various products, while an intelligent one could identify shortages, analyze the cause and its effect on the overall supply chain, and even take steps to correct it.Artificial intelligence can be allowed to replace a whole system, making all decisions end-to-end, or it can be used to enhance a specific process.For example, analyzing video footage to recognize gestures, or replacing peripheral devices (keyboard, mouse, touchscreen) with a speech to text system., giving the impression that one is interacting with a sentient being.Just as philosophers debate the nature of man and the existence of free will, computer science experts debate the various types of AI.Capable of performing only a limited set of predetermined functions; think, autonomous cars, retail kiosks, etc.;Said to equal the human mind’s ability to function autonomously according to a wide set of stimuli;Which will one day exceed human intelligence (and conceivably take over the world).At the moment, Narrow AI is only beginning to enter mainstream computing applications.Can only react to existing situations, not past experiences.Relies on stored data to learn from recent experiences to make decisions.Capable of comprehending conversational speech, emotions, non-verbal cues and other intuitive elements;Human-level consciousness with its own desires, goals and objectives.A good way to visualize these distinctions would be an AI-driven poker player. A reactive machine would base decisions only on the current hand in play, while a limited memory version would consider past decisions and player profiles.Using Theory of Mind, however, the program would pick up on speech and facial cues, and a self-aware AI might start to consider if there is something more worthwhile to do than play poker.AI is currently being applied to a range of functions both in the lab and in commercial/consumer settings:Allows intelligent systems to convert human speech into text or code.A subset of speech recognition, enables conversational interaction between humans and computers.Allows a machine to scan an image and identify it using comparative analysis.Perhaps the most revolutionary aspect of AI, however, is that it allows software to rewrite itself as it adapts to its environment.Unlike traditional upgrade programs that take years and are often buggy, or even newer DevOps processes that push changes quickly with less disruption, AI allows a given program to optimize itself to highly specialized use cases.This should not only lower the cost of software licensing and support, it should provide steadily improving performance and the development of unique processes that deliver crucial advantages in an increasingly competitive economy.Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+Techopedia Terms:   
+#   
+A   
+B   
+C   
+D   
+E   
+F   
+G   
+H   
+I   
+J   
+K   
+L   
+M   
+N   
+O   
+P   
+Q   
+R   
+S   
+T   
+U   
+V   
+W   
+X   
+Y   
+Z   
+
+Copyright © 2020 Techopedia Inc. - Terms of Use -
+Privacy Policy
